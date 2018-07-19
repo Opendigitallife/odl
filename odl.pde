@@ -72,10 +72,10 @@ void setup() {
    * click the button to generate the access tokens for your account
    * copy and paste those values as well below
    */
-  simpletweet.setOAuthConsumerKey("r37IDbBi7eTi496aIfF7QUOuG");
-  simpletweet.setOAuthConsumerSecret("zLye1GkDqhzEw9SPzYCW8aP23OsYQO4TVb46biTz9Koy8SqTSZ");
-  simpletweet.setOAuthAccessToken("837061317890564098-3kd4t6zokLqG1hs6nImlLdzSE8fYbaz");
-  simpletweet.setOAuthAccessTokenSecret("7KBFyp9ZT9K8TmKHMlgwUq0sE9awgTm39a7ly3qAhzaAL");
+  simpletweet.setOAuthConsumerKey(" ");
+  simpletweet.setOAuthConsumerSecret(" ");
+  simpletweet.setOAuthAccessToken("    ");
+  simpletweet.setOAuthAccessTokenSecret("");
 
   tweets = search("#3d");
  cp5 = new ControlP5(this);
